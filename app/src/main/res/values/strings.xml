@@ -1,9 +1,11 @@
 <resources>
     <string name="app_name" translatable="false">ArtSpace</string>
-    <string name="sanji">Sanji</string>
-    <string name="sanji_year">2023</string>
-    <string name="deku">Deku</string>
-    <string name="deku_year">2022</string>
+    <string name="denji">Denji</string>
+    <string name="denji_year">2023</string>
     <string name="zero_two">Zero Two</string>
     <string name="zero_two_year">2021</string>
+    <string name="sanji">Sanji</string>
+    <string name="sanji_year">2022</string>
+    <string name="naruto">Naruto</string>
+    <string name="naruto_year">2020</string>
 </resources>
