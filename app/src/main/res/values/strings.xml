@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name" translatable="false">ArtSpace</string>
+    <string name="app_name" translatable="false">Art Space</string>
     <string name="denji">Denji</string>
     <string name="denji_year">2023</string>
     <string name="zero_two">Zero Two</string>
